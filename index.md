@@ -39,11 +39,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## here is some code
 
-'''
+```
 #include <iostream>
 using namespace std;
   
 int main(){
   cout << "lol";
   }
-'''
+```
